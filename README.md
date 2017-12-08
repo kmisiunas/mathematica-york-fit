@@ -1,5 +1,5 @@
 # mathematica-york-fit
-Linear model fit for data with X and Y errors using (York 2004 method)[http://aapt.scitation.org/doi/pdf/10.1119/1.1632486]
+Linear model fit for data with X and Y errors using [York 2004 method](http://aapt.scitation.org/doi/pdf/10.1119/1.1632486)
 
 ## Usage
 
