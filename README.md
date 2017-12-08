@@ -3,7 +3,8 @@ Linear model fit for data with X and Y errors using York 2004 method
 
 ## Usage
 
-``` YorkFit[{{x,y},...}, \"Errors\"-> err] York linear regression fit:
+``` 
+YorkFit[{{x,y},...}, \"Errors\"-> err] York linear regression fit:
   http://aapt.scitation.org/doi/pdf/10.1119/1.1632486
   
   "Errors" can be supplied with:
